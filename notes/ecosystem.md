@@ -1,14 +1,10 @@
-# Base Ecosystem
+## Example Ecosystem Areas
 
-This document contains a few examples of projects and tools available on Base.
+### DeFi
+Applications that provide trading, lending, and liquidity services.
 
-## Categories
+### NFTs
+Platforms for creating and managing digital collectibles.
 
-- Decentralized Exchanges (DEXs)
-- NFT Platforms
-- Developer Tools
-- Wallets
-
-## Notes
-
-The Base ecosystem continues to grow with new applications and infrastructure projects.
+### Infrastructure
+Tools that help developers build and maintain applications on Base.
