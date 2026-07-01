@@ -20,3 +20,10 @@ Provide a starting point for learning how to build applications on Base.
 3. Deploy a smart contract.
 4. Test interactions with the contract.
 5. Monitor and maintain the application.
+
+## Helpful Tips
+
+- Keep development dependencies up to date.
+- Test contracts before deployment.
+- Read the official documentation regularly.
+- Use version control for every change.
