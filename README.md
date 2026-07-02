@@ -22,6 +22,19 @@ Base is an Ethereum Layer 2 network incubated by Coinbase and built using the OP
 - `notes/` contains documentation and learning materials.
 - `assets/` stores images and other resources.
 
+## Available Notes
+
+Current documentation includes:
+
+- What is Base
+- Base Ecosystem
+- Network Updates
+- Developer Resources
+- Advantages
+- Architecture
+- Glossary
+
+More topics will be added over time.
 ## Purpose
 
 This repository is intended for educational and research purposes related to the Base network.
