@@ -23,3 +23,13 @@ Lower transaction fees make Base suitable for applications that require frequent
 ## Note
 
 Gas fees may change depending on current network conditions and transaction complexity.
+## Tips for Managing Gas Costs
+
+- Avoid submitting transactions during periods of high network activity.
+- Estimate transaction costs before confirming.
+- Test smart contracts on a test network before deploying to production.
+- Batch operations when possible to reduce overall costs.
+
+## Note
+
+Gas fees may change depending on current network conditions and transaction complexity.
