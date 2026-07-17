@@ -14,3 +14,13 @@ Security is an important part of using any blockchain network. Users and develop
 ## Conclusion
 
 Good security habits help reduce common risks when using the Base ecosystem.
+## Security Checklist
+
+Before interacting with an application on Base:
+
+- Confirm the website URL.
+- Check the wallet connection request.
+- Verify token approvals before signing.
+- Disconnect your wallet after using unfamiliar applications.
+
+Following these simple steps can help reduce security risks.
