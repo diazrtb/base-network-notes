@@ -38,3 +38,16 @@ More topics will be added over time.
 ## Purpose
 
 This repository is intended for educational and research purposes related to the Base network.
+## Quick Start
+
+1. Clone the repository.
+
+2. Open the notes/ directory.
+
+3. Read the introductory documents.
+
+4. Explore additional Base topics.
+
+## Repository Goal
+
+This repository is a simple educational collection of notes and documentation related to the Base network.
