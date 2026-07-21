@@ -26,3 +26,14 @@ Developers can build applications that benefit from:
 ## Future Growth
 
 As the ecosystem expands, new categories of applications and services are expected to emerge.
+## Example Applications
+
+Some common applications that can be built on Base include:
+
+- Token swap platforms
+- NFT collections and marketplaces
+- Onchain gaming experiences
+- Community and social platforms
+- Payment and reward systems
+
+These examples demonstrate the flexibility of the Base ecosystem for different types of projects.
