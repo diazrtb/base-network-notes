@@ -25,3 +25,16 @@ A typical development workflow includes:
 ## Notes
 
 Using a test environment helps identify issues before interacting with the live network.
+## Deployment Checklist
+
+Before deploying a smart contract:
+
+- Review the contract code.
+- Confirm the target network.
+- Verify wallet permissions.
+- Keep a backup of deployment details.
+- Test important functions after deployment.
+
+## Reminder
+
+Careful preparation helps reduce deployment mistakes and improves reliability.
