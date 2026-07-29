@@ -15,3 +15,17 @@ Bridging allows users to move supported assets between Ethereum and the Base net
 ## Notes
 
 Always verify that you are using a trusted bridge and review transaction details before confirming.
+## Common Issues
+
+Users may occasionally experience delays when bridging assets.
+
+Possible reasons include:
+
+- Network congestion
+- Wallet connection problems
+- Transaction confirmation delays
+- Temporary bridge maintenance
+
+## Recommendation
+
+If a transfer takes longer than expected, check the transaction status before attempting another transfer.
