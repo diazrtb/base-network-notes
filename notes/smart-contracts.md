@@ -33,3 +33,16 @@ A basic smart contract workflow can include:
 ## Reminder
 
 Testing and code review are important steps before deploying contracts that manage real assets.
+## Testing
+
+Testing helps identify problems before a contract is deployed to production.
+
+Useful checks include:
+
+- Function behavior
+- Access control
+- Error handling
+- Transaction results
+- Gas usage
+
+Contracts should be tested thoroughly before being used with real assets.
