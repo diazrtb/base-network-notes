@@ -19,3 +19,15 @@ Developers can use onchain data to monitor applications, analyze activity, and b
 ## Notes
 
 When analyzing blockchain data, always consider the source, timestamp, and network before drawing conclusions.
+## Reading Onchain Activity
+
+When reviewing blockchain activity, useful fields include:
+
+- Transaction hash
+- Block number
+- Sender and receiver
+- Token amount
+- Transaction status
+- Timestamp
+
+These details can help developers and users understand what happened onchain.
