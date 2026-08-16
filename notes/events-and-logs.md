@@ -18,3 +18,18 @@ Events make it easier for applications to monitor contract activity without cons
 ## Notes
 
 Developers should design events carefully so important application activity can be tracked efficiently.
+## Event Monitoring
+
+Applications can monitor contract events to react to onchain activity.
+
+Common uses include:
+
+- Updating application interfaces
+- Tracking token transfers
+- Recording user actions
+- Triggering backend processes
+- Building analytics dashboards
+
+## Notes
+
+Event data should be validated before being used by an application.
