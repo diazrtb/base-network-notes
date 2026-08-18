@@ -51,3 +51,16 @@ This repository is intended for educational and research purposes related to the
 ## Repository Goal
 
 This repository is a simple educational collection of notes and documentation related to the Base network.
+## Learning Path
+
+The notes in this repository follow a simple learning path:
+
+1. Base fundamentals
+2. Network architecture
+3. Wallets and transactions
+4. Smart contracts
+5. Developer tools
+6. Onchain data
+7. Ecosystem concepts
+
+The repository will continue to grow with small additions and updates.
