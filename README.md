@@ -64,3 +64,14 @@ The notes in this repository follow a simple learning path:
 7. Ecosystem concepts
 
 The repository will continue to grow with small additions and updates.
+## Contributing
+
+Small improvements are welcome.
+
+When adding new information:
+
+- Keep the documentation simple.
+- Use clear Markdown formatting.
+- Keep topics focused.
+- Update existing notes when possible.
+- Use descriptive commit messages.
