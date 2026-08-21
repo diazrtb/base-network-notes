@@ -20,3 +20,12 @@ This file will be updated as new information about Base becomes available.
 - Organized notes by topic.
 - Added more practical development information.
 - Continued expanding the learning materials.
+## Documentation Roadmap
+
+Future updates may cover:
+
+- Base ecosystem projects
+- Developer tooling
+- Onchain analytics
+- Smart contract patterns
+- Network documentation
