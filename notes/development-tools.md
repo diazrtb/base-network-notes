@@ -49,3 +49,14 @@ A simple Base development project can separate its main components into:
 - Documentation
 
 Keeping these areas organized makes the project easier to maintain and update.
+## Project Structure
+
+A simple Base development project can separate its main components into:
+
+- Contracts
+- Scripts
+- Tests
+- Configuration
+- Documentation
+
+Keeping these areas organized makes the project easier to maintain and update.
