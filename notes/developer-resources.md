@@ -27,3 +27,12 @@ Provide a starting point for learning how to build applications on Base.
 - Test contracts before deployment.
 - Read the official documentation regularly.
 - Use version control for every change.
+## Testing Environments
+
+Using separate environments can make development safer and easier to manage.
+
+- Local development for early testing
+- Testnet for blockchain interactions
+- Mainnet for production applications
+
+Keeping testing separate from production helps reduce deployment mistakes.
