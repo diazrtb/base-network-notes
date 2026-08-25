@@ -29,3 +29,8 @@ Future updates may cover:
 - Onchain analytics
 - Smart contract patterns
 - Network documentation
+## Documentation Status
+
+The repository now covers several areas of the Base ecosystem, including network basics, development, wallets, smart contracts, and onchain data.
+
+The documentation will continue to be expanded gradually as new topics are explored.
