@@ -37,3 +37,15 @@ Some common applications that can be built on Base include:
 - Payment and reward systems
 
 These examples demonstrate the flexibility of the Base ecosystem for different types of projects.
+## DeFi Applications
+
+Decentralized finance is one of the major use cases for Base.
+
+Common DeFi applications include:
+
+- Token swaps
+- Lending and borrowing
+- Liquidity pools
+- Yield-related applications
+
+DeFi applications allow users to interact with financial services directly through smart contracts.
