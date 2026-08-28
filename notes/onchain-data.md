@@ -44,3 +44,16 @@ Useful checks include:
 - Reviewing transaction status
 
 Accurate data verification helps prevent mistakes when analyzing blockchain activity.
+## Network Monitoring
+
+Monitoring onchain activity can help developers understand network behavior and application performance.
+
+Useful metrics include:
+
+- Transaction activity
+- Confirmation times
+- Failed transactions
+- Contract events
+- RPC response times
+
+Regular monitoring can help identify issues early and improve application reliability.
