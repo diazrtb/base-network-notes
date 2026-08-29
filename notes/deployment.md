@@ -14,3 +14,14 @@ Deploying smart contracts on Base is similar to deploying on Ethereum because of
 ## Notes
 
 Always test contracts in a development environment before deploying production versions.
+## Post-Deployment Checks
+
+After deploying a smart contract, developers should verify:
+
+- The contract address
+- Deployment transaction
+- Contract functions
+- Event emissions
+- Network configuration
+
+Keeping deployment details documented makes future maintenance easier.
