@@ -33,3 +33,15 @@ Gas fees may change depending on current network conditions and transaction comp
 ## Note
 
 Gas fees may change depending on current network conditions and transaction complexity.
+## Fee Awareness
+
+Transaction costs can vary depending on network conditions and the type of operation being performed.
+
+Before submitting a transaction, users should:
+
+- Review the estimated fee.
+- Confirm the selected network.
+- Check the transaction details.
+- Avoid unnecessary repeated transactions.
+
+Understanding fee behavior helps users make better decisions when interacting with Base.
