@@ -49,3 +49,16 @@ Common DeFi applications include:
 - Yield-related applications
 
 DeFi applications allow users to interact with financial services directly through smart contracts.
+## NFT Applications
+
+NFTs can represent unique digital assets and can be used in different types of applications.
+
+Common examples include:
+
+- Digital collectibles
+- In-game assets
+- Memberships
+- Digital ownership
+- Community-based applications
+
+NFT applications can combine ownership records with programmable smart contract logic.
