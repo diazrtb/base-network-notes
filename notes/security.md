@@ -24,3 +24,16 @@ Before interacting with an application on Base:
 - Disconnect your wallet after using unfamiliar applications.
 
 Following these simple steps can help reduce security risks.
+## Transaction Safety
+
+Before signing a transaction, users should understand what they are approving.
+
+A basic safety check includes:
+
+- Verify the application domain.
+- Review the requested permissions.
+- Check the destination address.
+- Avoid signing unexpected requests.
+- Revoke unnecessary token approvals when appropriate.
+
+Taking a few seconds to review a transaction can prevent avoidable mistakes.
