@@ -36,3 +36,16 @@ Using separate environments can make development safer and easier to manage.
 - Mainnet for production applications
 
 Keeping testing separate from production helps reduce deployment mistakes.
+## Debugging
+
+When developing on Base, debugging can help identify failed transactions and unexpected contract behavior.
+
+Useful steps include:
+
+- Check the transaction status.
+- Review contract error messages.
+- Inspect emitted events.
+- Verify network configuration.
+- Reproduce the issue in a test environment.
+
+Keeping debugging notes organized can make development and maintenance easier.
