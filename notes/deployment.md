@@ -25,3 +25,14 @@ After deploying a smart contract, developers should verify:
 - Network configuration
 
 Keeping deployment details documented makes future maintenance easier.
+## Deployment Checklist
+
+Before considering a smart contract deployment complete, it is useful to verify a few basic points:
+
+- Confirm the target network.
+- Check the deployed contract address.
+- Verify important constructor parameters.
+- Test basic contract interactions.
+- Record the deployment details for future reference.
+
+Keeping a simple deployment checklist can reduce configuration mistakes and make future updates easier to track.
