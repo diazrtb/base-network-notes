@@ -11,7 +11,17 @@ A simple repository for collecting information and updates about Base Network.
 ## About Base
 
 Base is an Ethereum Layer 2 network incubated by Coinbase and built using the OP Stack.
+## Learning Goals
 
+This repository is designed as a simple learning resource for understanding Base.
+
+The main goals are:
+
+- Learn the basic concepts behind Base.
+- Understand common development workflows.
+- Explore applications and ecosystem categories.
+- Keep useful technical notes organized.
+- Build knowledge gradually through small updates.
 ## Resources
 
 - https://base.org
