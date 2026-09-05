@@ -46,3 +46,16 @@ Useful checks include:
 - Gas usage
 
 Contracts should be tested thoroughly before being used with real assets.
+## Testing Before Deployment
+
+Testing smart contracts before deployment can help catch logic and configuration issues early.
+
+A simple testing process includes:
+
+- Test core contract functions.
+- Check expected and unexpected inputs.
+- Test important edge cases.
+- Review transaction results.
+- Fix issues before deploying to a production network.
+
+Testing regularly can make contract development more reliable and easier to maintain.
