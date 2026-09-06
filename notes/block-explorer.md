@@ -33,3 +33,17 @@ When viewing a transaction, you can typically find:
 - Timestamp
 
 Understanding these fields makes it easier to troubleshoot and verify onchain activity.
+## Transaction Review
+
+A block explorer can be useful when checking the details of a transaction.
+
+When reviewing a transaction, look at:
+
+- Transaction status
+- Sender and recipient addresses
+- Transaction value
+- Gas information
+- Block confirmation
+- Contract events and logs
+
+Reviewing these details can help identify failed transactions and understand what happened onchain.
