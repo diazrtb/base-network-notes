@@ -26,3 +26,16 @@ If you have trouble connecting to Base:
 ## Reminder
 
 Always review transaction details before confirming any operation.
+## Wallet Basics
+
+A wallet is used to manage accounts and interact with applications on Base.
+
+When connecting a wallet, users should:
+
+- Confirm the selected network.
+- Check the connected account address.
+- Review transaction requests before signing.
+- Keep recovery information secure.
+- Avoid connecting the wallet to unknown applications.
+
+Understanding these basic steps helps users interact with Base applications more safely.
