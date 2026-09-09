@@ -57,3 +57,16 @@ Useful metrics include:
 - RPC response times
 
 Regular monitoring can help identify issues early and improve application reliability.
+## Monitoring Network Activity
+
+Monitoring onchain activity can help developers understand how applications are being used.
+
+Useful metrics to observe include:
+
+- Transaction activity
+- Contract interactions
+- Event frequency
+- Active addresses
+- Changes in transaction volume
+
+Tracking these signals over time can help identify unusual activity, usage patterns, and potential issues.
