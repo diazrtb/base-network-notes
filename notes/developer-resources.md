@@ -49,3 +49,16 @@ Useful steps include:
 - Reproduce the issue in a test environment.
 
 Keeping debugging notes organized can make development and maintenance easier.
+## Error Handling
+
+Errors can happen during development when transactions fail or application settings are incorrect.
+
+Useful troubleshooting steps include:
+
+- Check the transaction status and error message.
+- Verify the selected network.
+- Confirm contract addresses and parameters.
+- Check whether the wallet has enough funds for the transaction.
+- Reproduce the problem in a test environment.
+
+Clear error handling makes applications easier to debug and maintain.
