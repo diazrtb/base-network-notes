@@ -15,3 +15,13 @@ A decentralized application (dApp) usually connects a user interface with blockc
 A user interacts with the frontend, connects a wallet, and sends requests through the application. Read operations can retrieve blockchain data, while write operations may require the user to approve a transaction.
 
 Keeping these components separated can make a dApp easier to develop, test, and maintain.
+## Data Flow
+
+A dApp can handle different types of blockchain interactions.
+
+- Read requests retrieve public onchain data.
+- Write requests create transactions that require wallet approval.
+- RPC providers connect the application to the network.
+- Smart contracts process onchain application logic.
+
+Separating read and write operations can make application behavior easier to understand and maintain.
