@@ -25,3 +25,16 @@ A dApp can handle different types of blockchain interactions.
 - Smart contracts process onchain application logic.
 
 Separating read and write operations can make application behavior easier to understand and maintain.
+## Frontend Integration
+
+The frontend is the main interface between users and a dApp.
+
+A typical integration includes:
+
+- Connecting a wallet.
+- Reading data from smart contracts.
+- Preparing transactions.
+- Requesting user signatures.
+- Displaying transaction status and results.
+
+Keeping blockchain interactions separate from the user interface can make the application easier to test and maintain.
