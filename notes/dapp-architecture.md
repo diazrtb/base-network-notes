@@ -38,3 +38,16 @@ A typical integration includes:
 - Displaying transaction status and results.
 
 Keeping blockchain interactions separate from the user interface can make the application easier to test and maintain.
+## Application Configuration
+
+A dApp needs consistent configuration to communicate with the intended network and contracts.
+
+Useful configuration values include:
+
+- Network settings
+- RPC configuration
+- Contract addresses
+- Application environment
+- Transaction settings
+
+Configuration should be kept organized and separated from application logic. This makes it easier to switch between development and production environments and reduces configuration mistakes.
