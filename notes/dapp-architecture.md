@@ -51,3 +51,16 @@ Useful configuration values include:
 - Transaction settings
 
 Configuration should be kept organized and separated from application logic. This makes it easier to switch between development and production environments and reduces configuration mistakes.
+## Environment Management
+
+A dApp may use different environments during development and deployment.
+
+Common environments include:
+
+- Local development
+- Testing
+- Production
+
+Each environment can have different RPC settings, contract addresses, and application configuration.
+
+Keeping environment-specific values separate helps prevent accidental use of development settings in production.
