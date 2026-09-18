@@ -37,3 +37,16 @@ A basic safety check includes:
 - Revoke unnecessary token approvals when appropriate.
 
 Taking a few seconds to review a transaction can prevent avoidable mistakes.
+## Token Approval Safety
+
+Token approvals allow a smart contract to access tokens on behalf of a wallet.
+
+Before approving a transaction, users should:
+
+- Check which contract is requesting access.
+- Review the amount being approved.
+- Avoid approving unknown applications.
+- Revoke unnecessary approvals when appropriate.
+- Use trusted interfaces when interacting with tokens.
+
+Understanding token approvals can help users reduce unnecessary exposure when using decentralized applications.
