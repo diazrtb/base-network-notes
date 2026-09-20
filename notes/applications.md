@@ -62,3 +62,18 @@ Common examples include:
 - Community-based applications
 
 NFT applications can combine ownership records with programmable smart contract logic.
+## dApp User Flows
+
+A clear user flow can make decentralized applications easier to understand and use.
+
+A typical flow may include:
+
+1. Open the application.
+2. Connect a wallet.
+3. Select an action.
+4. Review the transaction.
+5. Approve the request.
+6. Wait for confirmation.
+7. Display the result to the user.
+
+Keeping each step clear can reduce confusion and make blockchain interactions easier for users.
