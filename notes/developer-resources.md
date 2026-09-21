@@ -62,3 +62,16 @@ Useful troubleshooting steps include:
 - Reproduce the problem in a test environment.
 
 Clear error handling makes applications easier to debug and maintain.
+## API Integration
+
+Applications can use APIs to organize access to blockchain data and external services.
+
+When integrating an API, developers should:
+
+- Use clear request and response structures.
+- Handle failed requests gracefully.
+- Validate returned data.
+- Keep API credentials secure when required.
+- Avoid depending on a single response without verification.
+
+A well-structured API layer can make application development easier to maintain and test.
