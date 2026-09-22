@@ -50,3 +50,16 @@ Useful information to record includes:
 - Related transaction hash
 
 Maintaining deployment records helps developers identify the correct contract and understand how an application was deployed.
+## Contract Versioning
+
+Keeping track of contract versions is useful when an application evolves over time.
+
+Developers can record:
+
+- Contract version
+- Deployment address
+- Deployment network
+- Major changes
+- Related application version
+
+Clear versioning makes it easier to identify which contract an application is using and understand changes between deployments.
