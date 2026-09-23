@@ -75,3 +75,16 @@ When integrating an API, developers should:
 - Avoid depending on a single response without verification.
 
 A well-structured API layer can make application development easier to maintain and test.
+## Application Logging
+
+Logging can help developers understand how an application behaves during development and production.
+
+Useful information to log includes:
+
+- Application errors
+- Transaction requests
+- Transaction results
+- Network changes
+- Important application events
+
+Logs should contain enough information to help with debugging without exposing private keys, secrets, or other sensitive data.
