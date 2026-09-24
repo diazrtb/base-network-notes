@@ -63,3 +63,15 @@ Developers can record:
 - Related application version
 
 Clear versioning makes it easier to identify which contract an application is using and understand changes between deployments.
+## Release Checklist
+
+Before releasing a new application version, developers can review a few important items:
+
+- Confirm the correct network and contract addresses.
+- Run the relevant tests.
+- Review configuration changes.
+- Check recent transaction behavior.
+- Verify documentation and version information.
+- Keep a record of the release.
+
+A consistent release process can help reduce avoidable deployment mistakes.
