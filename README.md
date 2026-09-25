@@ -85,3 +85,16 @@ When adding new information:
 - Keep topics focused.
 - Update existing notes when possible.
 - Use descriptive commit messages.
+## Maintenance
+
+This repository is updated gradually as new Base-related topics are documented.
+
+When adding new content:
+
+- Keep notes short and focused.
+- Avoid duplicating existing topics.
+- Use clear filenames and headings.
+- Update the README when the repository structure changes.
+- Keep commits small and descriptive.
+
+The goal is to keep the repository simple, organized, and easy to follow.
