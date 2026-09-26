@@ -88,3 +88,16 @@ Useful information to log includes:
 - Important application events
 
 Logs should contain enough information to help with debugging without exposing private keys, secrets, or other sensitive data.
+## Testing Environments
+
+Using separate environments for testing can help developers identify problems before releasing an application.
+
+A testing environment can be used to:
+
+- Try new contract changes.
+- Test application interactions.
+- Reproduce transaction failures.
+- Validate configuration changes.
+- Experiment without affecting production users.
+
+Keeping testing activities separate from production workflows can make development safer and easier to manage.
