@@ -77,3 +77,17 @@ A typical flow may include:
 7. Display the result to the user.
 
 Keeping each step clear can reduce confusion and make blockchain interactions easier for users.
+## Application State
+
+A dApp needs to keep track of information while users interact with it.
+
+Common state can include:
+
+- Connected wallet address
+- Selected network
+- Transaction status
+- Loading state
+- Contract data
+- Error messages
+
+Keeping application state organized can make the user interface more predictable and easier to maintain.
