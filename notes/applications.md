@@ -91,3 +91,16 @@ Common state can include:
 - Error messages
 
 Keeping application state organized can make the user interface more predictable and easier to maintain.
+## Transaction Confirmation UI
+
+A dApp should clearly communicate the status of user transactions.
+
+Useful states to display include:
+
+- Waiting for wallet approval
+- Transaction submitted
+- Transaction pending
+- Transaction confirmed
+- Transaction failed
+
+Clear status messages help users understand what is happening and avoid repeating an action while a transaction is still processing.
