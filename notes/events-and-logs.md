@@ -33,3 +33,16 @@ Common uses include:
 ## Notes
 
 Event data should be validated before being used by an application.
+## Using Events in Applications
+
+Smart contract events can help applications react to important onchain actions.
+
+A dApp can use events to:
+
+- Detect completed actions.
+- Update the user interface.
+- Track contract activity.
+- Display recent application activity.
+- Connect onchain actions with application state.
+
+Listening for relevant events can make a dApp more responsive and easier to monitor.
