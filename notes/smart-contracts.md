@@ -59,3 +59,16 @@ A simple testing process includes:
 - Fix issues before deploying to a production network.
 
 Testing regularly can make contract development more reliable and easier to maintain.
+## Upgrade Planning
+
+Smart contract changes should be planned carefully because deployed contracts may have important dependencies.
+
+Before introducing a new contract version, developers can:
+
+- Review the required changes.
+- Test the updated logic.
+- Check application compatibility.
+- Document the new contract address.
+- Plan how users will move to the updated version.
+
+Clear upgrade planning can make contract maintenance easier and reduce unexpected application issues.
