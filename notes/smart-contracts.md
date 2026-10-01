@@ -72,3 +72,16 @@ Before introducing a new contract version, developers can:
 - Plan how users will move to the updated version.
 
 Clear upgrade planning can make contract maintenance easier and reduce unexpected application issues.
+## Contract Interfaces
+
+A contract interface defines the functions and events that an application expects to interact with.
+
+Interfaces can help developers:
+
+- Understand available contract functions.
+- Keep frontend integrations organized.
+- Separate contract interaction from application logic.
+- Reuse interaction patterns across applications.
+- Reduce confusion when working with multiple contracts.
+
+Keeping interfaces clear can make smart contract integrations easier to maintain.
