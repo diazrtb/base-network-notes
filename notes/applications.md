@@ -104,3 +104,16 @@ Useful states to display include:
 - Transaction failed
 
 Clear status messages help users understand what is happening and avoid repeating an action while a transaction is still processing.
+## Data Caching
+
+Applications can cache frequently requested blockchain data to reduce unnecessary network requests.
+
+Useful data to cache may include:
+
+- Contract information
+- Recent activity
+- Token balances
+- Frequently used configuration
+- Previously retrieved read results
+
+Cached data should be refreshed when necessary so the application does not display outdated information.
