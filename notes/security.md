@@ -50,3 +50,16 @@ Before approving a transaction, users should:
 - Use trusted interfaces when interacting with tokens.
 
 Understanding token approvals can help users reduce unnecessary exposure when using decentralized applications.
+## Phishing Protection
+
+Phishing attacks can trick users into connecting their wallets or approving unwanted transactions.
+
+Useful precautions include:
+
+- Check website domains carefully.
+- Avoid unknown links and unsolicited requests.
+- Verify the application before connecting a wallet.
+- Review transaction details before signing.
+- Never share a private key or recovery phrase.
+
+Taking a few moments to verify an application can prevent many avoidable security problems.
