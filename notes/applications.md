@@ -117,3 +117,17 @@ Useful data to cache may include:
 - Previously retrieved read results
 
 Cached data should be refreshed when necessary so the application does not display outdated information.
+## Frontend Error States
+
+A dApp should clearly communicate problems that occur during user interactions.
+
+Common error states include:
+
+- Wallet connection failure
+- Unsupported network
+- Rejected transaction
+- Failed transaction
+- RPC request failure
+- Missing contract data
+
+Error messages should be clear and actionable so users understand what went wrong and what they can try next.
