@@ -131,3 +131,16 @@ Common error states include:
 - Missing contract data
 
 Error messages should be clear and actionable so users understand what went wrong and what they can try next.
+## dApp Accessibility
+
+A well-designed dApp should be usable by as many people as possible.
+
+Useful accessibility practices include:
+
+- Use clear labels for buttons and inputs.
+- Provide readable error messages.
+- Support keyboard navigation.
+- Keep important actions easy to identify.
+- Avoid relying only on color to communicate information.
+
+Accessible interfaces can make blockchain applications easier and more comfortable to use.
