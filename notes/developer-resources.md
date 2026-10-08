@@ -101,3 +101,16 @@ A testing environment can be used to:
 - Experiment without affecting production users.
 
 Keeping testing activities separate from production workflows can make development safer and easier to manage.
+## Performance Monitoring
+
+Monitoring application performance can help developers identify slow or inefficient parts of a dApp.
+
+Useful metrics to observe include:
+
+- RPC response time
+- Page loading time
+- Transaction confirmation time
+- Failed requests
+- Repeated network requests
+
+Regular performance checks can help keep applications responsive and improve the overall user experience.
