@@ -114,3 +114,16 @@ Useful metrics to observe include:
 - Repeated network requests
 
 Regular performance checks can help keep applications responsive and improve the overall user experience.
+## Documentation Quality
+
+Good technical documentation helps developers understand a project and maintain it over time.
+
+Useful practices include:
+
+- Explain technical terms clearly.
+- Include practical examples when helpful.
+- Keep instructions up to date.
+- Use consistent headings and formatting.
+- Remove outdated or duplicated information.
+
+Clear documentation makes it easier for new contributors to learn and use the project.
