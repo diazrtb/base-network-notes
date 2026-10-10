@@ -144,3 +144,16 @@ Useful accessibility practices include:
 - Avoid relying only on color to communicate information.
 
 Accessible interfaces can make blockchain applications easier and more comfortable to use.
+## User Feedback
+
+User feedback helps developers understand how people interact with a dApp and where improvements are needed.
+
+Useful feedback methods include:
+
+- Collect reports about confusing interactions.
+- Identify common usability problems.
+- Review recurring transaction issues.
+- Make feedback channels easy to find.
+- Use feedback to prioritize future improvements.
+
+Regularly reviewing user feedback can help make a dApp more intuitive, reliable, and accessible.
