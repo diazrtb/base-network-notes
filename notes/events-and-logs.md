@@ -15,9 +15,11 @@ Smart contracts can emit events to record important actions onchain. These event
 
 Events make it easier for applications to monitor contract activity without constantly checking every contract state variable.
 
-## Notes
+## Validating Event Data
 
-Developers should design events carefully so important application activity can be tracked efficiently.
+Event data should be validated before being used by an application.
+
+For example, check that an event was emitted by the expected contract address before acting on it.
 ## Event Monitoring
 
 Applications can monitor contract events to react to onchain activity.
