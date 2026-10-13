@@ -29,7 +29,6 @@ A basic smart contract workflow can include:
 5. Review the deployed contract.
 6. Deploy to the production network when ready.
 
-
 ## Testing
 
 Testing helps identify problems before a contract is deployed to production.
@@ -41,21 +40,11 @@ Useful checks include:
 - Error handling
 - Transaction results
 - Gas usage
+- Expected and unexpected inputs
+- Important edge cases
 
-Contracts should be tested thoroughly before being used with real assets.
-## Testing Before Deployment
+Contracts should be tested thoroughly before being used with real assets. Testing regularly also makes contract development more reliable and easier to maintain.
 
-Testing smart contracts before deployment can help catch logic and configuration issues early.
-
-A simple testing process includes:
-
-- Test core contract functions.
-- Check expected and unexpected inputs.
-- Test important edge cases.
-- Review transaction results.
-- Fix issues before deploying to a production network.
-
-Testing regularly can make contract development more reliable and easier to maintain.
 ## Upgrade Planning
 
 Smart contract changes should be planned carefully because deployed contracts may have important dependencies.
