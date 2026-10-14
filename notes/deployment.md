@@ -14,28 +14,20 @@ Deploying smart contracts on Base is similar to deploying on Ethereum because of
 ## Notes
 
 Always test contracts in a development environment before deploying production versions.
-## Post-Deployment Checks
 
-After deploying a smart contract, developers should verify:
-
-- The contract address
-- Deployment transaction
-- Contract functions
-- Event emissions
-- Network configuration
-
-Keeping deployment details documented makes future maintenance easier.
 ## Deployment Checklist
 
-Before considering a smart contract deployment complete, it is useful to verify a few basic points:
+Before considering a smart contract deployment complete, verify the following:
 
-- Confirm the target network.
-- Check the deployed contract address.
+- Confirm the target network and network configuration.
+- Check the deployed contract address and deployment transaction.
 - Verify important constructor parameters.
-- Test basic contract interactions.
+- Test basic contract interactions and functions.
+- Confirm that expected events are emitted.
 - Record the deployment details for future reference.
 
-Keeping a simple deployment checklist can reduce configuration mistakes and make future updates easier to track.
+A simple checklist reduces configuration mistakes and makes future updates easier to track.
+
 ## Deployment Records
 
 Keeping a record of deployed contracts can make future maintenance easier.
