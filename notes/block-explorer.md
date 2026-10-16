@@ -26,24 +26,12 @@ Block explorers improve transparency by making onchain activity easy to inspect.
 When viewing a transaction, you can typically find:
 
 - Transaction status
-- Block number
+- Block number and block confirmations
+- Timestamp
+- Sender and receiver addresses
+- Transaction value
 - Gas used
 - Transaction fee
-- Sender and receiver addresses
-- Timestamp
-
-Understanding these fields makes it easier to troubleshoot and verify onchain activity.
-## Transaction Review
-
-A block explorer can be useful when checking the details of a transaction.
-
-When reviewing a transaction, look at:
-
-- Transaction status
-- Sender and recipient addresses
-- Transaction value
-- Gas information
-- Block confirmation
 - Contract events and logs
 
-Reviewing these details can help identify failed transactions and understand what happened onchain.
+Understanding these fields makes it easier to troubleshoot and verify onchain activity. Reviewing them can also help identify failed transactions and understand what happened onchain.
