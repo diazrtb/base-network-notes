@@ -4,6 +4,12 @@
 
 A block explorer helps users inspect blockchain activity on the Base network.
 
+## Block Explorers for Base
+
+- Base Mainnet: [basescan.org](https://basescan.org)
+- Base Sepolia (testnet): [sepolia.basescan.org](https://sepolia.basescan.org)
+
+Blockscout explorers are also available for both networks. Make sure the explorer matches the network you used, since a mainnet transaction will not appear on a testnet explorer.
 ## What You Can Search
 
 - Wallet addresses
