@@ -6,11 +6,10 @@ Base is built using the OP Stack, making it compatible with Ethereum while impro
 
 ## Main Components
 
-- Execution Layer
-- Settlement on Ethereum
-- Data Availability
-- OP Stack infrastructure
-
+- Execution Layer: where transactions on Base are processed and smart contracts run.
+- Settlement on Ethereum: Base relies on Ethereum as its base layer for security and final settlement.
+- Data Availability: transaction data is published to Ethereum so the state of Base can be verified and reconstructed.
+- OP Stack infrastructure: the shared, open-source software stack that Base builds on.
 ## Goal
 
 The architecture is designed to support secure, scalable, and low-cost onchain applications.
