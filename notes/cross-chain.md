@@ -18,3 +18,11 @@ When using cross-chain infrastructure, users should verify supported networks, a
 ## Notes
 
 Cross-chain systems can improve interoperability while introducing additional technical and security considerations.
+
+Common risks include:
+
+- Bugs in bridge or messaging smart contracts
+- Trust assumptions in third-party bridge providers
+- Sending assets to the wrong network or address
+
+For moving assets between Ethereum and Base, see [bridging.md](bridging.md).
