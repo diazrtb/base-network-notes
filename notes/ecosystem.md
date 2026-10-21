@@ -1,5 +1,8 @@
-## Example Ecosystem Areas
+# Base Ecosystem
 
+The Base ecosystem includes the applications, tools, and infrastructure built on the Base network.
+
+## Example Ecosystem Areas
 ### DeFi
 Applications that provide trading, lending, and liquidity services.
 
