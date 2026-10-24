@@ -43,6 +43,15 @@ Current documentation includes:
 - Advantages
 - Architecture
 - Glossary
+- Applications
+- Block Explorer
+- Bridging
+- Cross-Chain
+- Deployment
+- Events and Logs
+- Security
+- Smart Contracts
+- Testnet
 
 More topics will be added over time.
 ## Purpose
