@@ -4,6 +4,19 @@
 
 The Base testnet allows developers to test smart contracts and decentralized applications before deploying them to the main network.
 
+## Base Sepolia Network Details
+
+Base's public testnet is called Base Sepolia.
+
+| Setting | Value |
+| --- | --- |
+| Network name | Base Sepolia |
+| Chain ID | 84532 |
+| RPC endpoint | https://sepolia.base.org |
+| Block explorer | https://sepolia-explorer.base.org |
+
+The public RPC endpoint is rate limited and is not meant for production systems. Test ETH has no real value and is obtained from a faucet.
+
 ## Why Use a Testnet?
 
 - Experiment without risking real assets.
