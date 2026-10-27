@@ -48,3 +48,13 @@ A dApp can use events to:
 - Connect onchain actions with application state.
 
 Listening for relevant events can make a dApp more responsive and easier to monitor.
+
+## Example: Listening to Events with Ethers.js
+
+The example below listens for `Transfer` events from a token contract on Base Sepolia, using Ethers.js v6.
+
+```js
+
+```
+
+Only the events declared in the ABI can be listened to. The public RPC endpoint is rate limited, so use a dedicated RPC provider for anything beyond testing.
