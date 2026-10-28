@@ -12,3 +12,10 @@ Base is an Ethereum Layer 2 network designed to provide low transaction fees and
 ## Purpose
 
 Base aims to make onchain applications more accessible to developers and users.
+
+## Learn More
+
+- [Architecture](architecture.md): how Base is built on the OP Stack and Ethereum
+- [Testnet](testnet.md): testing contracts and applications before mainnet
+- [Bridging](bridging.md): moving assets between Ethereum and Base
+- [Smart Contracts](smart-contracts.md): writing, testing, and deploying contracts
