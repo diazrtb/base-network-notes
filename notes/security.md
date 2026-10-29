@@ -7,13 +7,11 @@ Security is an important part of using any blockchain network. Users and develop
 ## Recommendations
 
 - Use trusted wallets.
+- Consider a hardware wallet for larger balances.
 - Keep recovery phrases offline.
 - Verify contract addresses before interacting.
 - Review transaction details carefully.
 
-## Conclusion
-
-Good security habits help reduce common risks when using the Base ecosystem.
 ## Security Checklist
 
 Before interacting with an application on Base:
@@ -24,19 +22,19 @@ Before interacting with an application on Base:
 - Disconnect your wallet after using unfamiliar applications.
 
 Following these simple steps can help reduce security risks.
+
 ## Transaction Safety
 
 Before signing a transaction, users should understand what they are approving.
 
 A basic safety check includes:
 
-- Verify the application domain.
 - Review the requested permissions.
 - Check the destination address.
 - Avoid signing unexpected requests.
-- Revoke unnecessary token approvals when appropriate.
 
 Taking a few seconds to review a transaction can prevent avoidable mistakes.
+
 ## Token Approval Safety
 
 Token approvals allow a smart contract to access tokens on behalf of a wallet.
@@ -46,20 +44,22 @@ Before approving a transaction, users should:
 - Check which contract is requesting access.
 - Review the amount being approved.
 - Avoid approving unknown applications.
-- Revoke unnecessary approvals when appropriate.
 - Use trusted interfaces when interacting with tokens.
+- Revoke unnecessary approvals when appropriate.
 
 Understanding token approvals can help users reduce unnecessary exposure when using decentralized applications.
+
 ## Phishing Protection
 
 Phishing attacks can trick users into connecting their wallets or approving unwanted transactions.
 
 Useful precautions include:
 
-- Check website domains carefully.
 - Avoid unknown links and unsolicited requests.
-- Verify the application before connecting a wallet.
-- Review transaction details before signing.
 - Never share a private key or recovery phrase.
 
 Taking a few moments to verify an application can prevent many avoidable security problems.
+
+## Conclusion
+
+Good security habits help reduce common risks when using the Base ecosystem.
